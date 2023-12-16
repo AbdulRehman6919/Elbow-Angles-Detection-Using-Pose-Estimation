@@ -8,7 +8,7 @@ In this innovative project, I leverage the power of computer vision to precisely
 - Joints Diagram
 
 # Demo 
-![Brain_Tumour_GIF](ElbowJointsDetection.gif)
+![Brain_Tumour_GIF](ezgif-5-4f87ec9ef7.gif)
 
 # Joints Diagram
 
